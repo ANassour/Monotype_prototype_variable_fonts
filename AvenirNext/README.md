@@ -26,4 +26,3 @@ And 8 named instances:
 -         Medium
 -         Bold
 -         Heavy
--         Black
