@@ -6,6 +6,8 @@ Avenir Next is a humanist design san serif with clean, classic styling.
  
 This Variable Font demo was made to showcase the capabilities in the new OpenType version 1.8 specification. Please read the [EULA], which limits usage for development, prototyping and testing purposes – and not for re-distribution or commercial use.
 
+**_Note:_** The latest version fixes a problem with HVAR table and also adds variations to the GPOS kerning feature.
+
 To test the functionality in this font, try [FontView]. 
 
 [EULA]: https://github.com/Monotype/Monotype_prototype_variable_fonts/blob/master/AvenirNext/LICENSE.txt
