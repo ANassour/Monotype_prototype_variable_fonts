@@ -19,11 +19,14 @@ This TrueType variable font contains three axes:
 It has an ASCII character set, along with en and em dash and opening/closing quotes.
  
 And 36 named instances:
+-         Condensed Thin
 -         Condensed ExtraLight
 -         Condensed Light
+-         Condensed Regular
 -         Condensed Medium
 -         Condensed Bold
 -         Condensed ExtraBold
+-         Condensed Black
 -         Thin
 -         ExtraLight
 -         Light
@@ -32,13 +35,17 @@ And 36 named instances:
 -         Bold
 -         ExtraBold
 -         Black
+-         Extended Thin
 -         Extended ExtraLight
 -         Extended Light
 -         Extended Medium
 -         Extended Bold
 -         Extended ExtraBold
+-         Extended Black
+-         Condensed Thin Italic
 -         Condensed ExtraLight Italic
 -         Condensed Light Italic
+-         Condensed Regular Italic
 -         Condensed Medium Italic
 -         Condensed Bold Italic
 -         Condensed ExtraBold Italic
@@ -50,8 +57,10 @@ And 36 named instances:
 -         Bold Italic
 -         ExtraBold Italic
 -         Black Italic
+-         Extended Thin Italic
 -         Extended ExtraLight Italic
 -         Extended Light Italic
 -         Extended Medium Italic
 -         Extended Bold Italic
 -         Extended ExtraBold Italic
+-         Extended Black Italic
